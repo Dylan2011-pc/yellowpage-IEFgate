@@ -1,0 +1,69 @@
+{
+	"Sheets": [
+		{
+			"Name": "testfile.csv",
+			"Data": [
+				{
+					"RowNumber": 0,
+					"Cells": [
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Bob"
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Alice"
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Sue"
+						}
+					]
+				},
+				{
+					"RowNumber": 1,
+					"Cells": [
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Yes"
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "No"
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Yes"
+						}
+					]
+				},
+				{
+					"RowNumber": 2,
+					"Cells": [
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "No"
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": ""
+						},
+						{
+							"Type": 0,
+							"Formula": "",
+							"Value": "Yes"
+						}
+					]
+				}
+			]
+		}
+	]
+}

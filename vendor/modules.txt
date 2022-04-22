@@ -1,0 +1,134 @@
+# github.com/360EntSecGroup-Skylar/excelize v1.4.1
+## explicit
+# github.com/DataDog/datadog-go v3.7.1+incompatible
+## explicit
+# github.com/FerdinaKusumah/excel2json v0.0.0-20210831035609-7c42ff5df63f
+## explicit; go 1.15
+# github.com/afex/hystrix-go v0.0.0-20180209013831-27fae8d30f1a
+## explicit
+# github.com/astaxie/flatmap v0.0.0-20160505145528-c0e84c00d8d5
+## explicit
+github.com/astaxie/flatmap
+# github.com/cactus/go-statsd-client/statsd v0.0.0-20200423205355-cb0885a1018c
+## explicit; go 1.11
+# github.com/caltechlibrary/ostdlib v0.0.0-20161020214713-b33bba0454bb
+## explicit
+# github.com/chzyer/readline v1.5.0
+## explicit; go 1.15
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+# github.com/fatih/color v1.13.0
+## explicit; go 1.13
+# github.com/frankban/quicktest v1.11.2
+## explicit; go 1.13
+github.com/frankban/quicktest
+# github.com/gojektech/heimdall/v6 v6.1.0
+## explicit; go 1.14
+# github.com/gojektech/valkyrie v0.0.0-20180215180059-6aee720afcdf
+## explicit
+# github.com/google/btree v1.0.0
+## explicit
+github.com/google/btree
+# github.com/google/go-cmp v0.5.2
+## explicit; go 1.8
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/cmpopts
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/flags
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/haotrr/json2csv v1.3.3
+## explicit; go 1.12
+github.com/haotrr/json2csv
+# github.com/jehiah/json2csv v1.2.1
+## explicit; go 1.13
+# github.com/jscherff/json2csv v0.0.0-20180411154644-ff079c460aa8
+## explicit
+github.com/jscherff/json2csv/io
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/kr/pretty v0.2.1
+## explicit; go 1.12
+github.com/kr/pretty
+# github.com/kr/text v0.1.0
+## explicit
+github.com/kr/text
+# github.com/mattn/go-colorable v0.1.9
+## explicit; go 1.13
+# github.com/mattn/go-isatty v0.0.14
+## explicit; go 1.12
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
+# github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
+## explicit
+# github.com/northbright/pathhelper v0.0.0-20170328083152-212a42014bc5
+## explicit
+# github.com/northbright/xls2csv-go v0.0.0-20170801084719-a41b112cd306
+## explicit
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+# github.com/peterbourgon/diskv v2.0.1+incompatible
+## explicit
+github.com/peterbourgon/diskv
+# github.com/pkg/errors v0.8.0
+## explicit
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+# github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
+## explicit
+# github.com/richardlehane/mscfb v1.0.4
+## explicit
+# github.com/richardlehane/msoleps v1.0.1
+## explicit
+# github.com/robertkrimen/otto v0.0.0-20211024170158-b87d35c0b86f
+## explicit; go 1.14
+# github.com/rogpeppe/fastuuid v1.2.0
+## explicit; go 1.12
+github.com/rogpeppe/fastuuid
+# github.com/rsdoiel/xlsx2json v0.0.4
+## explicit
+# github.com/shabbyrobe/xmlwriter v0.0.0-20200208144257-9fca06d00ffa
+## explicit; go 1.12
+github.com/shabbyrobe/xmlwriter
+# github.com/stretchr/objx v0.1.1
+## explicit
+# github.com/stretchr/testify v1.7.0
+## explicit; go 1.13
+# github.com/tealeg/xlsx v1.0.5
+## explicit; go 1.12
+github.com/tealeg/xlsx
+# github.com/tealeg/xlsx/v3 v3.2.4
+## explicit; go 1.15
+github.com/tealeg/xlsx/v3
+# github.com/whatalnk/xlsx2json v0.0.0-20160802133402-7bbc2f6d02c7
+## explicit
+# github.com/xuri/efp v0.0.0-20220407160117-ad0f7a785be8
+## explicit; go 1.11
+# github.com/xuri/excelize/v2 v2.6.0
+## explicit; go 1.15
+# github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22
+## explicit; go 1.15
+# golang.org/x/crypto v0.0.0-20220408190544-5352b0902921
+## explicit; go 1.17
+# golang.org/x/net v0.0.0-20220407224826-aac1ed45d8e3
+## explicit; go 1.17
+# golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5
+## explicit; go 1.17
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/transform
+# golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
+## explicit; go 1.11
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# gopkg.in/sourcemap.v1 v1.0.5
+## explicit
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+## explicit

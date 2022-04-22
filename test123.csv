@@ -1,0 +1,25 @@
+category,deploymentId,id,key,name,resource,version
+http://camunda.org/schema/1.0/dmn,66150eb4-bf7a-11e6-bcd8-005056835da9,66ea11f6-bf7a-11e6-bcd8-005056835da9,callcenter-auto-escalation-rules,callcenter-auto-escalation-rules,callcenter-auto-escalation-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,66eb7187-bf7a-11e6-bcd8-005056835da9,66f1b319-bf7a-11e6-bcd8-005056835da9,adp-event-process-name-rules,adp-event-process-name-rules,adp-event-process-name-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,6aecd4d5-bf7a-11e6-8937-005056832da1,6b2968ab-bf7a-11e6-8937-005056832da1,crm-timezone-equivalence-rule,crm-timezone-equivalence-rule,crm-timezone-equivalence-rule.dmn,1
+http://camunda.org/schema/1.0/dmn,6d19eeca-bf7a-11e6-bcd8-005056835da9,6d353f07-bf7a-11e6-bcd8-005056835da9,fss-user-provisioning-roles-rules,fss-user-provisioning-roles-rules,fss-user-provisioning-roles-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,6d19eeca-bf7a-11e6-bcd8-005056835da9,6d356618-bf7a-11e6-bcd8-005056835da9,fss-user-provisioning-rules,fss-user-provisioning-rules,fss-user-provisioning-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,7093ac58-bf7a-11e6-8937-005056832da1,709707ba-bf7a-11e6-8937-005056832da1,mi9-determine-discount-rules,mi9-determine-discount-rules,mi9-determine-discount-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,7097f21b-bf7a-11e6-8937-005056832da1,709aff5d-bf7a-11e6-8937-005056832da1,mi9-user-provisioning-determine-status-rules,mi9-user-provisioning-determine-status-rules,mi9-user-provisioning-determine-status-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,710c850a-bf7a-11e6-8937-005056832da1,710d967c-bf7a-11e6-8937-005056832da1,mi9-customer-verification-rules,mi9-customer-verification-rules,mi9-customer-verification-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,714a035e-bf7a-11e6-8937-005056832da1,714b62f0-bf7a-11e6-8937-005056832da1,mi9-user-provisioning-rules-location,mi9 user provisioning rules location,mi9-user-provisioning-rules-location.dmn,1
+http://camunda.org/schema/1.0/dmn,71668c1a-bf7a-11e6-8937-005056832da1,716ea26c-bf7a-11e6-8937-005056832da1,mi9-user-provisioning-rules-roles,mi9 user provisioning rules roles,META-INF/mi9-user-provisioning-rules-roles.dmn,1
+http://camunda.org/schema/1.0/dmn,a285ed4c-c31e-11e6-a9c7-00505683657b,a45779a8-c31e-11e6-a9c7-00505683657b,mi9-user-provisioning-rules-roles,mi9 user provisioning rules roles,META-INF/mi9-user-provisioning-rules-roles.dmn,2
+http://camunda.org/schema/1.0/dmn,cc30265d-c3c5-11e6-a9c7-00505683657b,cc3381c6-c3c5-11e6-a9c7-00505683657b,dgr-coverage-translation-rules,DgrCoverageTranslationDmn,dgr-coverage-translation-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,cc3ea55a-c3c5-11e6-a9c7-00505683657b,cc43393c-c3c5-11e6-a9c7-00505683657b,dgr-segment-override-rules,DgrSegmentOverrideDmn,dgr-segment-override-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,6ce8a513-bf7a-11e6-8937-005056832da1,company-data:1:6cee9887-bf7a-11e6-8937-005056832da1,company-data,Companies,company-data.dmn,1
+http://camunda.org/schema/1.0/dmn,6a4b8c90-bf7a-11e6-8937-005056832da1,crm-lead-cool-off-rules:1:6a504782-bf7a-11e6-8937-005056832da1,crm-lead-cool-off-rules,CRM Lead Cool Off,crm-lead-cool-off-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,6d68f943-bf7a-11e6-bcd8-005056835da9,dept-ids:1:6d763fbb-bf7a-11e6-bcd8-005056835da9,dept-ids,Dept ids,dept-ids.dmn,1
+http://camunda.org/schema/1.0/dmn,cc3c0d47-c3c5-11e6-a9c7-00505683657b,dgr-age-rules:1:cc3dbaf9-c3c5-11e6-a9c7-00505683657b,dgr-age-rules,DGR AGE RULES,dgr-age-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,cc4c6104-c3c5-11e6-a9c7-00505683657b,dgr-constants-rules:1:cc4e35c6-c3c5-11e6-a9c7-00505683657b,dgr-constants-rules,DgrConstantsDmn,dgr-constants-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,cc48de8d-c3c5-11e6-a9c7-00505683657b,dgr-coverage-rules:1:cc4b4f93-c3c5-11e6-a9c7-00505683657b,dgr-coverage-rules,DGR-Coverage-Rules,dgr-coverage-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,cc4f2027-c3c5-11e6-a9c7-00505683657b,dgr-pdf-rules:1:cc50a6c9-c3c5-11e6-a9c7-00505683657b,dgr-pdf-rules,DgrPdfDmn,dgr-pdf-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,cc0e4678-c3c5-11e6-a9c7-00505683657b,dgr-pt-rules:1:cc1f848a-c3c5-11e6-a9c7-00505683657b,dgr-pt-rules,DGR PT RULES,dgr-pt-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,70d01829-bf7a-11e6-8937-005056832da1,easypay-transaction-rules:1:70d1eceb-bf7a-11e6-8937-005056832da1,easypay-transaction-rules,easypay transaction rules,easypay-transaction-rules.dmn,1
+http://camunda.org/schema/1.0/dmn,6cc4c959-bf7a-11e6-8937-005056832da1,jobcodes:1:6cde44cf-bf7a-11e6-8937-005056832da1,jobcodes,Job codes,jobcodes.dmn,1
+http://camunda.org/schema/1.0/dmn,668bec56-bf7a-11e6-8937-005056832da1,staples-employee-rules:1:67376e98-bf7a-11e6-8937-005056832da1,staples-employee-rules,staples-employee-rules,staples-employee-rules.dmn,1
